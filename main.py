@@ -10,7 +10,7 @@ import csv
 #     json.dump(response, file, indent=3, ensure_ascii=False)
 
 
-categories = ['smartfony', 'planshety', 'smart-chasy', 'naushniki']
+categories = ['smartfony', 'planshety', 'smart-chasy', 'naushniki', 'televizory']
 
 
 def get_total(names):
